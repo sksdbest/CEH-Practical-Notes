@@ -43,4 +43,5 @@ Click on the Tool Name to Open Cheatsheet for the particular tool
 - [Nirangadh all modules separate notes](https://github.com/nirangadh/ceh-practical)
 - [Rezmike Notes](https://github.com/Rezkmike/CEH_Practical_Preparation)
 - [TheCyber Punker Notes](https://github.com/TheCyberpunker/CEH-Practical-Notes)
+- [Guru Hari Notes](https://book.thegurusec.com/certifications/certified-ethical-hacker-practical)
 
