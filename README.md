@@ -18,19 +18,19 @@ For CEH command list use this link
 
 ### Tools & Cheatsheets
 Click on the Tool Name to Open Cheatsheet for the particular tool 
-- [Nmap]()
-- [WireShark]() 
-- [SqlMap]
-- [THC-Hydra]
-- [Wpscan]
-- [MetaSploit]
-- [QuickStego]
-- [OpenStego]
-- [RainbowCrack]
-- [Veracrypt]
-- [John the ripper]
-- [HashCalc]
-- [Burpsuite]
+- [Nmap](https://www.stationx.net/nmap-cheat-sheet/) && [Nmap-cs2](https://github.com/jasonniebauer/Nmap-Cheatsheet)
+- [WireShark](https://cdn.comparitech.com/wp-content/uploads/2019/06/Wireshark-Cheat-Sheet.pdf) 
+- [SqlMap](https://dl.packetstormsecurity.net/papers/cheatsheets/sqlmap-cheatsheet-1.0-SDB.pdf)
+- [THC-Hydra](https://github.com/frizb/Hydra-Cheatsheet)
+- [Wpscan](https://www.exploit-db.com/docs/english/45556-wordpress-penetration-testing-using-wpscan-and-metasploit.pdf)
+- [MetaSploit](https://cdn.comparitech.com/wp-content/uploads/2019/06/Metasploit-Cheat-Sheet.pdf)
+- [QuickStego](https://www.youtube.com/watch?v=29pcKEK6Ww8)
+- [OpenStego](https://www.youtube.com/watch?v=Jsbe5oqRyXI)
+- [RainbowCrack](https://www.youtube.com/watch?v=O9E1PVZneqg)
+- [Veracrypt](https://www.youtube.com/watch?v=cxo8xosH_TI)
+- [John the ripper](https://countuponsecurity.files.wordpress.com/2016/09/jtr-cheat-sheet.pdf)
+- [HashCalc](https://www.youtube.com/watch?v=Y3rhWFuUSCQ)
+- [Burpsuite](https://ns2.elhacker.net/cheat-sheet/Burp-Suite-Cheat-Sheet.pdf)
 
 ### Github Repositories for CEH Practical Notes 
 - [CyberUP CEH Repo ](https://github.com/CyberSecurityUP/Guide-CEH-Practical-Master)
